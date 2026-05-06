@@ -1,0 +1,42 @@
+src/lib/notification.ts
+  63c7014dd9a66144 1-6
+src/pages/settings.tsx
+  63c7014dd9a66144 42
+src/hooks/app/use-usage-alert.ts
+  63c7014dd9a66144 4,60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "a62d911479b801ca97ebee4cdeb3b4fb02edc931",
+  "prompts": {
+    "33bfe4f623ec6634": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7940412d-ad47-4eff-8bb1-fff49e8cc601",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/a6724b44730a3286da6fa51bd1bcd3939af6da548aed825c4eeba898d9e30f22"
+    },
+    "63c7014dd9a66144": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c9380100-7070-4816-b13c-8e65da3416a1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 15,
+      "accepted_lines": 9,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/2c3e3ecd514606d5f8cbead5fd284b0ee0bf1b8c4ab6eb3e1e5fd8f3256267fa"
+    }
+  }
+}
