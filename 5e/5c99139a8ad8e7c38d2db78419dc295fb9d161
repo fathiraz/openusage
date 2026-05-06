@@ -1,0 +1,71 @@
+src/hooks/app/use-usage-alert.ts
+  e4395844633bd48c 62-67
+src-tauri/src/plugin_engine/runtime.rs
+  b51fbad25d8f26cb 495
+src-tauri/src/plugin_engine/manifest.rs
+  b51fbad25d8f26cb 113-115
+src/lib/settings.ts
+  799504b3404e318d 360
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "5e5c99139a8ad8e7c38d2db78419dc295fb9d161",
+  "prompts": {
+    "799504b3404e318d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bb59f599-f288-4ec4-bbc5-9807a31529cd",
+        "model": "default"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/bbcdad03c822e65c4bf778d29d81f8d3ed361e7723d8bdd44e4757a06cef1669"
+    },
+    "b51fbad25d8f26cb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ba25a352-ad29-4739-9ea9-35af79492d6f",
+        "model": "default"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 4,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/98916a7e8d009af7e46084fdaffcc39d4e9a97e972b51cb582a92db0f9903105"
+    },
+    "e4395844633bd48c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1d8c3d0b-605f-43e8-bf3b-a949b6af4dce",
+        "model": "default"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 4,
+      "accepted_lines": 6,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/60979fc98b2be0034376bd4de2cfb4891b3b92fa4db2c38ba488bcb076798f7e"
+    },
+    "f6d1e0d49ab65247": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_204603ae7ffersIXLG44tINJnu-b3a9aed5-d8c9-4a1b-9be3-5c1b2d4f32e9",
+        "model": "unknown"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
